@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>08.jpg</filename>
+	<path>C:\Projects\Yolo-ObjectDetection\1_dataprepration\data_images\08.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1366</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SuperBike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>435</xmin>
+			<ymin>141</ymin>
+			<xmax>898</xmax>
+			<ymax>579</ymax>
+		</bndbox>
+	</object>
+</annotation>
